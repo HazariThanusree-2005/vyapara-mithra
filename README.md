@@ -1,20 +1,97 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌟 Vyapara Mithra  
+### Voice-First AI Platform for Local Business Website Generation
 
-# Run and deploy your AI Studio app
+Vyapara Mithra is an AI-powered web application designed to help small and local business owners create professional websites without coding knowledge.
 
-This contains everything you need to run your app locally.
+The name "Vyapara Mithra" comes from Sanskrit:
+- **Vyapara** – Business  
+- **Mithra** – Friend  
 
-View your app in AI Studio: https://ai.studio/apps/drive/10Wkpspf6ZrAjSpotqOg04acRpEHvMbUf
+It means **“Friend of Business”**, reflecting our mission to support Indian small-scale entrepreneurs in building their digital presence easily.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 Problem Statement
 
+Many small businesses struggle to establish an online presence due to:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Lack of technical knowledge
+- High website development costs
+- Language barriers
+- Complex website builders
+- Limited digital awareness
+
+As a result, a large percentage of local businesses remain offline.
+
+---
+
+## 💡 Solution
+
+Vyapara Mithra simplifies website creation using:
+
+- 🎤 Voice-based input
+- 🤖 AI-powered website generation
+- 📍 GPS-based shop location detection
+- 📱 Fully responsive design
+- ✏️ Live preview and conversational editing
+
+Users can simply describe their business, and the system generates a complete professional website within seconds.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- TypeScript
+- Tailwind CSS
+
+**AI Integration**
+- Google Gemini API
+- Prompt Engineering
+
+**Location Services**
+- Browser Geolocation API
+- Google Maps Integration
+
+---
+
+## ⚙️ Workflow
+
+1. User Login (OTP Authentication)
+2. Provide Business Details (Voice/Text)
+3. Location Detection (GPS)
+4. AI Processing & Website Generation
+5. Live Preview
+6. Edit using Simple Commands
+7. Final Confirmation
+
+---
+
+## 📊 Key Features
+
+- No coding required
+- Step-by-step guided interface
+- Mobile-friendly output
+- Fast website generation
+- Designed for non-technical users
+
+---
+
+## 🎯 Target Users
+
+- Kirana Stores
+- Tailors
+- Local Retail Shops
+- Service Providers
+- Small Entrepreneurs
+
+---
+
+---
+
+## 📌 Conclusion
+
+Vyapara Mithra bridges the digital gap for small businesses by combining AI, voice interaction, and location intelligence into a simple and accessible platform.
+
+Empowering local businesses to go digital — effortlessly.
